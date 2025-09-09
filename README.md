@@ -59,13 +59,15 @@ Click here to try it: (https://group-m-mini-project.streamlit.app)
 ---
 
 ##  Contributors  
-1. Etim, victory paul - 23/EG/CO/040 - Vinel-Ux
+1. Etim, Victory Paul - 23/EG/CO/040 - Vinel-Ux
 2. Ebong Margaret Christopher - 23/EG/CO/036 - gharet-18
 3. Jack, Barisere lekara - 23/EG/CO/047 - Bariserejack
 4. Egok, Polycarp Effiong - 23/EG/CO/035 - EgokPolycarp
 5. Agbor Philemon Agbor - 23/EG/CO/034 - philemondml
 6. Joshua Ndiongoabasi Uko - 23/EG/CO/038 - jnenterprise25-NJ
 7. Umoren, Joshua Idorenyin - 23/EG/CO/037 - JoshUa1gff
-8. 
+8. Etim, Henry Unwana - 23/EG/CO/042 - delix66
+9. Orazulume Chinaza Charles - 23/EG/CO/040 - Arta-Xerxes
+10. Okori, Goodluck Samson - 23/EG/CO/044 - goodluckokorie45
 
 
