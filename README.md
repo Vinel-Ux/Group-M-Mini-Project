@@ -67,7 +67,7 @@ Click here to try it: (https://group-m-mini-project.streamlit.app)
 6. Joshua Ndiongoabasi Uko - 23/EG/CO/038 - jnenterprise25-NJ
 7. Umoren, Joshua Idorenyin - 23/EG/CO/037 - JoshUa1gff
 8. Etim, Henry Unwana - 23/EG/CO/042 - delix66
-9. Orazulume Chinaza Charles - 23/EG/CO/040 - Arta-Xerxes
+9. Orazulume Chinaza Charles - 23/EG/CO/041 - Arta-Xerxes
 10. Okori, Goodluck Samson - 23/EG/CO/044 - goodluckokorie45
 
 
